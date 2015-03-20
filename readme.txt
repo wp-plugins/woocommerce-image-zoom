@@ -11,6 +11,8 @@ This plugin will add image zoom fearure in your woocommerce product image.
 
 == Description ==
 
+### Woocommerce Image Zoom by http://wpbean.com
+
 This plugin will add image zoom feature in your woocommerce product image.
 
 *   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/product/demo-product-9/)
