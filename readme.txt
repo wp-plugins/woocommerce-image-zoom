@@ -68,6 +68,10 @@ You don't have to do any setting, just active this plugin and check your single 
 1. Woocommerce Image Zoom in action.
 2. Woocommerce Image Zoom in action.
 3. Woocommerce Image Zoom in action.
+4. Magnifier Settings ( PRO version Only ).
+5. General Settings ( PRO version Only ).
+6. Slider Settings ( PRO version Only ).
+7. Single Product Exclusion ( PRO version Only ).
 
 
 == Changelog ==
