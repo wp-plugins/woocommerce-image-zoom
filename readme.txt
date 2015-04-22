@@ -15,10 +15,12 @@ This plugin will add image zoom fearure in your woocommerce product image.
 
 This plugin will add image zoom feature in your woocommerce product image.
 
-*   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/product/demo-product-9/)
+*   [Free version demo &raquo;](http://23.227.167.145/wpbean/demo1/product/demo-product-9/)
+*   [PRO version demo &raquo;](http://23.227.167.145/wpbean/demo2/?product=flying-ninja)
+*   [Buy PRO version &raquo;](http://wpbean.com/product/woocommerce-image-zoom-pro/)
 *   [Support &raquo;](http://wpbean.com/support/)
 
-Plugin Features
+### Plugin Features
 
 * Plug & Play.
 * No need any extra settings.
@@ -27,6 +29,20 @@ Plugin Features
 * Easy to use.
 * Developer friendly & easy to customize.
 * Powered by Elevate Zoom.
+
+### PEO Version Features
+
+* 3 different types of zoom.
+* Product gallery images slider option avaiable with zoom.
+* Exclude Zoom for specific product and specific category.
+* Changeable zoom window and zoom lens size.
+* 2 different types of zoom lens.
+* Smooth zooming with Easing effect and FadeIn & FadeOut Speed.
+* Advance setting panel with all necessary settings.
+* Life time free update and free support.
+* Video Documentation.
+* Free installation ( if needed ).
+
 
 
 == Installation ==
