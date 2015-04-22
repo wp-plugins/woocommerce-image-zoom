@@ -43,6 +43,10 @@ This plugin will add image zoom feature in your woocommerce product image.
 * Video Documentation.
 * Free installation ( if needed ).
 
+### Video Documentation:
+
+https://www.youtube.com/watch?v=RazygtLHNPs
+
 
 
 == Installation ==
