@@ -2,7 +2,7 @@
 Contributors: wpbean
 Tags: woocommerce zoom, woocommerce zoom magnifier, woocommerce zoom plugin, woocommerce zoom image plugin, mouse over image zoom, zoom image on hover, product image cloud zoom, hover over image to zoom, mouse over zoom image, woocommerce product gallery, woocommerce gallery, woocommerce product gallery slider, woocommerce gallery plugin, woocommerce product gallery plugin, woocommerce image gallery plugin
 Requires at least: 3.6
-Tested up to: 4.1.2
+Tested up to: 4.2.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
